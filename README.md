@@ -20,7 +20,7 @@ Will-It-Miss is an interactive web application that utilizes NASA's API to provi
 
 ## Try It Out
 
-Visit the live website: [https://near-misses.netlify.com](will-it-miss.com)
+Visit the live website: [https://will-it-miss.com](https://near-misses.netlify.com)
 
 ## Getting Started
 
