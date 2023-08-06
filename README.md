@@ -6,18 +6,6 @@
 
 Will-It-Miss is an interactive web application that utilizes NASA's API to provide real-time information about potentially hazardous space objects that could pose a threat to Earth. This project aims to raise awareness about near-Earth objects (NEOs) and their potential impact on our planet.
 
-## Features
-
-- **Live Data from NASA**: Will-It-Miss fetches data directly from NASA's API to provide up-to-date information on potentially hazardous NEOs.
-
-- **Near-Miss Tracking**: The application calculates the close approach of NEOs to Earth, indicating whether the objects will miss or potentially collide.
-
-- **Informative Details**: Detailed information about each NEO is displayed, including its size, speed, and potential impact energy.
-
-- **User-Friendly Interface**: The intuitive interface makes it easy for users to explore and understand the data about these space objects.
-
-- **Educational Resources**: Will-It-Miss provides links to educational resources about NEOs and their impact on Earth.
-
 ## Try It Out
 
 Visit the live website: [https://will-it-miss.com](https://near-misses.netlify.com)
